@@ -1,0 +1,4 @@
+Line 1 : Python is easy to learn
+Line 2 : It has numerous library
+Line 3 : File handling is one of it's feature
+Line 4 : Python support multiple modes of file handling.

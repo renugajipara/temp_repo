@@ -1,0 +1,3 @@
+Python is versetile programming langauge.
+Learning file handling in python is fun!!
+This file was last modified by adding this sentence
